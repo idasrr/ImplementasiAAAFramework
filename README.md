@@ -1,4 +1,11 @@
-# AAA Backend
+**#Implementasi AAA Framework dan Kepatuhan UU No.20 Tahun 2022**
+Kelompok 10: 
+- Ida Sri Rahayu(103052400069)
+- Venanda Angelyca Sherly Melati (103052400003)
+- Windi Pramudya Wardani (103052400006)
+- Ruqayyah Shofiyyah (103052400053)
+
+## AAA Backend
 
 ## 📋 Table of Contents
 
